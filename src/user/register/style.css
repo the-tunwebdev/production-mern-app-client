@@ -1,0 +1,22 @@
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: 1  ;
+}
+.mycontainer{ 
+    height: 450px
+}
+.up{ 
+    margin-top  : 20px
+}
+.vl {
+    border-left: 4px solid grey;
+    height: 50px;
+    
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+  }
